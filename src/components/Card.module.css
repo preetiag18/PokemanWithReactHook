@@ -1,0 +1,21 @@
+.card{
+    background-color: rgb(236, 236, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+    width: 250px;
+    border-radius: 5px;
+    margin-bottom: 4rem;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card img{
+    height: 2000px;
+    width: 200px;
+    padding: 1rem;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+}
+.card a{
+    margin-bottom: 1rem;
+}
